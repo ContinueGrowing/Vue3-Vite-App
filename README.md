@@ -10,7 +10,7 @@
 #   使用方法
 1.  将工程clone到本地
 ```
-git clone 
+git clone https://github.com/ContinueGrowing/Vue3-Vite-App.git
 ```
 2.  安装依赖
 ```
