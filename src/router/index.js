@@ -1,7 +1,7 @@
 
 import {createRouter, createWebHashHistory} from "vue-router";
 
-const Login = () => import("../views/Login.vue");
+const Login = () => import("../views/Login/index.vue");
 
 const routes = [
   

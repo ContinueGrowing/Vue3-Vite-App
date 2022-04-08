@@ -9,6 +9,9 @@ export default defineConfig({
       "@":"./src"
     }
   },
+  server:{
+    port:"3002"
+  },
   css: {
     preprocessorOptions: {
       scss: {

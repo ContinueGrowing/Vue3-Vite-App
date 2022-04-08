@@ -33,7 +33,7 @@
 <script>
 import { NavBar, Icon, Form, Field, CellGroup, Toast } from "vant";
 import { ref } from "vue";
-import { login } from "../api/user.js";
+import { login } from "../../api/user.js";
 import { useStore } from "vuex";
 export default {
   components: {
